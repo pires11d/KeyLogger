@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Pires/Dropbox/coding/C++/keylogger/keylogger.cpp
+iostream
+-
+fstream
+-
+stdio.h
+-
+windows.h
+-
+Winuser.h
+-
+keylogger.h
+C:/Users/Pires/Dropbox/coding/C++/keylogger/keylogger.h
+
+C:/Users/Pires/Dropbox/coding/C++/keylogger/keylogger.h
+

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Pires/Dropbox/coding/C++/keylogger/build",
+  "command": "C:/Octave/Octave-4.0.0/bin/g++.exe    -O3 -DNDEBUG   -o CMakeFiles/keylogger.dir/keylogger.cpp.obj -c C:/Users/Pires/Dropbox/coding/C++/keylogger/keylogger.cpp",
+  "file": "C:/Users/Pires/Dropbox/coding/C++/keylogger/keylogger.cpp"
+}
+]
